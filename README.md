@@ -1,4 +1,4 @@
-### 🎯 Intinya Script Ini:
+### 🎯 Script Ini:
 
 * **No Shuffle** → Player tidak otomatis pindah kursi (misalnya dari kursi penumpang ke kursi supir).
 * **No Helmet** → Player tidak otomatis pakai helm kalau naik motor.
